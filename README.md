@@ -8,8 +8,6 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jasssingh123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0e2f8fe5-a059-4fec-bd08-7b91e23b0bb0" />
 
 
