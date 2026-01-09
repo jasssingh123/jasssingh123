@@ -13,4 +13,197 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jasssingh123&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+
+
+dracula
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+
+
+monokai
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+
+
+chalk
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk
+
+
+nord
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
+
+
+alduin
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin
+
+
+darkhub
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+
+
+juicyfresh
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
+
+
+buddhism
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
+
+
+oldie
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie
+
+
+radical
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+
+
+onestar
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar
+
+
+discord
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
+
+
+algolia
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
+
+
+gitdimmed
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed
+
+
+tokyonight
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
+
+
+matrix
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+
+
+apprentice
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice
+
+
+dark_dimmed
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
+
+
+dark_lover
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover
+
+
+kimbie_dark
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark
+
+
+aura
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura
+
+
+Margin Width
+
+You can put a margin in the width between trophies.
+Available value: number type
+Default: margin-w=0
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15
+
+
+Margin Height
+
+You can put a margin in the height between trophies.
+Available value: number type
+Default: margin-h=0
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15
+
+
+Example layout
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
+
+
+Transparent background
+
+You can turn the background transparent.
+Available value: boolean type (true or false)
+Default: no-bg=false
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+
+
+Hide frames
+
+You can hide the frames around the trophies.
+Available value: boolean type (true or false)
+Default: no-frame=false
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+
+
+Contribution Guide
+
+Check CONTRIBUTING.md for more details.
+
+License
+
+This product is licensed under the MIT License.
+
+🙏 Sponsors
+
+Thank you so much to all the amazing sponsors who support this project! Your contributions help keep development going and make this work possible.
+
+💖 Monthly Sponsors
+
+@Leay15 - $10 / month
+@hesreallyhim - $10 / month
+@pmsosa — $10 / month
+@chenfeng-huang — $10 / month
+@holly-hacker — $2 / month
+@skillerious — $2 / month (since Aug 17, 2024)
+@LudovicGardy — $10 / month (since Aug 15, 2024)
+@alexcastrodev — $10 / month (since Oct 13, 2023, previously $50 / month)
+@great-work-told-is — $10 / month (since Apr 12, 2023)
+@Ilithy — $5 / month (since Jul 21, 2022)
+@weakish — $2 / month (since Jan 22, 2022)
+@Kazuhito00 — $2 / month (since Jan 19, 2022)
+@KATO-Hiro — $2 / month (since Jan 5, 2022)
+@batazor — $2 / month (since Oct 28, 2021)
+@port19x — $2 / month (since Jan 27, 2022)
+🎁 One-Time Sponsors
+
+@Seo-4d696b75 — $10 (Jan 4, 2026)
+@massif-01 — $5 (December 17, 2025)
+@tapegram — $20 (December 6, 2025)
+@WilliamCorotan — $5 (November 5, 2025)
+@arnabnandy7 — $10 (Oct 3, 2025)
+@JoqarSabon — $5 (May 24, 2024)
+@syaghoubi00 — $5 (Jan 28, 2024)
+@pylapp — $20 (Jan 15, 2024)
+@Dobefu — $10 (Dec 22, 2024)
+@michele-lorenzoni — $10 (Nov 26, 2024)
+@skillerious — $10 (Aug 17, 2024)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
