@@ -10,6 +10,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jasssingh123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0e2f8fe5-a059-4fec-bd08-7b91e23b0bb0" />
+
+
+<img width="663" height="113" alt="92327052-d99b9e00-f091-11ea-9a24-c7ec86982370" src="https://github.com/user-attachments/assets/3ee59121-8109-440f-a556-dc1c6db5b3fa" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jasssingh123&icon=0&color=0)](https://visitcount.itsvg.in)
